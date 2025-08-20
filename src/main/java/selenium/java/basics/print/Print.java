@@ -1,4 +1,4 @@
-package java.basics.javaprint;
+package selenium.java.basics.print;
 
 public class Print {
     public static void main(String[] args) {

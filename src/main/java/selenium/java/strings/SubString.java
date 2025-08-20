@@ -1,4 +1,4 @@
-package java.strings;
+package selenium.java.strings;
 
 public class SubString {
     public static void main(String[] args) {

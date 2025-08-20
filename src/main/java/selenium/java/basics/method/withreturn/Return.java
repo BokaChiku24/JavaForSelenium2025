@@ -1,4 +1,4 @@
-package java.basics.javamethod.withreturn;
+package selenium.java.basics.method.withreturn;
 
 public class Return {
     public static void main(String[] args) {

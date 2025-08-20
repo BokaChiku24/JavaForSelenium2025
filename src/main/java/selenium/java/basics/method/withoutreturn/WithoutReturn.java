@@ -1,4 +1,4 @@
-package java.basics.javamethod.withoutreturn;
+package selenium.java.basics.method.withoutreturn;
 
 public class WithoutReturn {
     public static void main(String[] args) {

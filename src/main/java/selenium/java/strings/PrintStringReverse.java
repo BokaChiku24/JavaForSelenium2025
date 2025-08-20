@@ -1,4 +1,4 @@
-package java.strings;
+package selenium.java.strings;
 
 public class PrintStringReverse {
     public static void main(String[] args) {

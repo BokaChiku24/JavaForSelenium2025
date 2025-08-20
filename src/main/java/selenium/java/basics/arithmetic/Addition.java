@@ -1,4 +1,4 @@
-package java.basics.javaarithmatic;
+package selenium.java.basics.arithmetic;
 
 public class Addition {
     public static void main(String[] args){
