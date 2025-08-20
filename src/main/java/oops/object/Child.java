@@ -1,4 +1,4 @@
-package oops.javaobject;
+package oops.object;
 
 public class Child {
     public void display(){

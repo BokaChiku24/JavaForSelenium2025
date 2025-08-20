@@ -1,4 +1,4 @@
-package basics.javaarithmatic;
+package java.basics.javaarithmatic;
 
 public class Addition {
     public static void main(String[] args){

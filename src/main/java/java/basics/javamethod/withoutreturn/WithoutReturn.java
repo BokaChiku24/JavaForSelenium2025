@@ -1,4 +1,4 @@
-package basics.javamethod.withoutreturn;
+package java.basics.javamethod.withoutreturn;
 
 public class WithoutReturn {
     public static void main(String[] args) {

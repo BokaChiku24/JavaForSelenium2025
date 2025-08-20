@@ -1,4 +1,4 @@
-package javastrings;
+package java.strings;
 
 public class PrintStringReverse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basics.javamethod.withreturn;
+package java.basics.javamethod.withreturn;
 
 public class Return {
     public static void main(String[] args) {

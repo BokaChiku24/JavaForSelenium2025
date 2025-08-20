@@ -1,4 +1,4 @@
-package javastrings;
+package java.strings;
 
 public class SubString {
     public static void main(String[] args) {

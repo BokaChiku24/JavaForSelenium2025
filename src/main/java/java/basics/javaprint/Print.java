@@ -1,4 +1,4 @@
-package basics.javaprint;
+package java.basics.javaprint;
 
 public class Print {
     public static void main(String[] args) {

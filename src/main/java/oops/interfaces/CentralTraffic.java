@@ -1,4 +1,4 @@
-package oops.javainterface;
+package oops.interfaces;
 
 public interface CentralTraffic {
     public static final int fine = 1000;

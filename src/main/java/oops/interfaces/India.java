@@ -1,4 +1,4 @@
-package oops.javainterface;
+package oops.interfaces;
 
 public class India implements CentralTraffic{
     @Override
