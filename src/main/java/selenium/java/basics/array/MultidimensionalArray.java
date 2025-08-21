@@ -26,13 +26,37 @@ public class MultidimensionalArray {
         System.out.println();
         System.out.println("----------------------------------");
         int [][] array2 = {{10, 20, 30}, {40, 50, 60}, {70, 80, 90}};
+        for (int[] row : array2) {
+            for (int value : row) {
+                System.out.print(value + "\t");
+            }
+            System.out.println();
+        }
+
+        /*
         for(int i = 0; i < array2.length; i++){
             for (int j = 0; j < array2.length; j++){
                 System.out.print(array2[i][j] + "\t");
             }
             System.out.println();
         }
+         */
 
+        System.out.println("----------------------------------");
+
+        int[][] a = new int[2][3];
+        a[0][0] = 2;
+        a[0][1] = 4;
+        a[0][2] = 5;
+        a[1][0] = 3;
+        a[1][1] = 8;
+        a[1][2] = 0;
+        for(int[] row: a){
+            for(int num: row){
+                System.out.print(num + " \t");
+            }
+            System.out.println();
+        }
     }
 
 }
