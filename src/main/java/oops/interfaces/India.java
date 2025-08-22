@@ -1,6 +1,6 @@
 package oops.interfaces;
 
-public class India implements CentralTraffic{
+public class India implements CentralTraffic, ContinentalTraffic{
     @Override
     public void greenGo() {
         System.out.println("Please go..");
@@ -26,5 +26,17 @@ public class India implements CentralTraffic{
         objIndia.greenGo();
         objIndia.yellowSlow();
         objIndia.redStop();
+        objIndia.trainSymbol();
+        objIndia.busSymbol();
+    }
+
+    @Override
+    public void trainSymbol() {
+        System.out.println("Train symbol is here");
+    }
+
+    @Override
+    public void busSymbol() {
+        System.out.println("Bus symbol is here");
     }
 }
